@@ -2,4 +2,4 @@
 
 This directory contains everything connected with logo of Twilito.
 
-![Twilito Logo](https://github.com/Twilito/Branding/blob/master/LOGO/Export%20Logo.png)
+![Twilito Logo](https://raw.githubusercontent.com/Twilito/Branding/master/LOGO/Export%20logo.png)
